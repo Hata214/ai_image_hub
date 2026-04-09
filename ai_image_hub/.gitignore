@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database (Quan trọng: Không đẩy dữ liệu cá nhân lên GitHub)
+db.sqlite3
+
+# Media (Ảnh AI tạo ra - GitHub không phải là kho chứa ảnh)
+media/
+
+# Environment Variables (Tuyệt đối không đẩy API Keys/Secret Keys)
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv
+
+# VS Code settings (Tùy chọn, giúp người khác không bị lẫn cấu hình của bạn)
+.vscode/
